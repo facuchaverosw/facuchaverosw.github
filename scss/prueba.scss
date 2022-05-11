@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2.?family=Montserrat&display=swap');
+/*body*/
+
+body{
+    font-family: 'Monserrat', sans-serif;
+    overflow-x:hidden;
+}
+$tipografiaPrincipal:blue;
+ @import 'header.scss';
+@import 'footer.scss';
+@import '_variables.scss';
+@import '_general.scss';
